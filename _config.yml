@@ -8,8 +8,8 @@ paginate:            5
 permalink:           pretty
 
 # About/contact
-author:              Ishan Shrimali
-  name:              Ishan Shrimali
+author:              'Ishan Shrimali'
+  name:              'Ishan Shrimali'
   url:               ''
   email:             ''
 
